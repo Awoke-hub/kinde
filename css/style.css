@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  background-color: black;
+  color: white;
+}
+.header-title {
+  display: flex;
+}
+.navs {
+  display: flex;
+  text-decoration: none;
+  color: white;
+}
